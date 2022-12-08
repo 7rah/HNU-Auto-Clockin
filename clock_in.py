@@ -103,7 +103,7 @@ def main():
                     "RealCity":args.city,
                     "RealCounty":args.county,
                     "RealAddress":real_address,
-                    "IsInCampus": "1",
+                    "IsInCampus": "0",
                     "ParkName": "null",
                     "BuildingName": "null",
                     "IsNormalTemperature": "1",
